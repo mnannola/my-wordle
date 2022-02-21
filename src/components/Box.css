@@ -1,0 +1,12 @@
+.box {
+    border: 2px solid lightgray;
+    margin: 5px;
+    display: inline-block;
+    height: 62px;
+    width: 62px;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    text-align:center;
+    vertical-align:middle;
+    font-size:35px;
+}
